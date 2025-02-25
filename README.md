@@ -2,7 +2,8 @@
 
 ```markdown
 ## Overview
-**dBank** is a decentralized banking application built using the Internet Computer blockchain. It allows users to deposit, withdraw, and earn interest on their funds in a decentralized manner. 
+**dBank** is a decentralized banking application built using the Internet Computer blockchain. 
+It allows users to deposit, withdraw, and earn interest on their funds in a decentralized manner. 
 
 ## Features
 - Deposit and withdraw digital assets securely.
